@@ -21,7 +21,7 @@ The term in astronomy originally described all celestial bodies orbiting a large
 
 These attendants have gone through many changes, what the Telecommunications Industry might call revolutions.
 
-In early satellite technology, there was a fundamental question: whether these objects would be #passivereflectors or #activerepeaters. The latter was deemed untenable, for its need to have a long-term power source to send radio waves back to earth, and the first design was chosen. As passive reflectors, these objects' first instantiation evolved into uniformly reflective aluminum-coated spheres; they wouldn't require a special alignment in orbit to relay waves bounced off their surfaces.[ ^1]
+In early satellite technology, there was a fundamental question: whether these objects would be #passivereflectors or #activerepeaters. The latter was deemed untenable, for its need to have a long-term power source to send radio waves back to earth, and the first design was chosen. As passive reflectors, these objects' first instantiation evolved into uniformly reflective aluminum-coated spheres; they wouldn't require a special alignment in orbit to relay waves bounced off their surfaces.<sup><a href="#1">1</a></sup>
 
 There is a narrative to untangle as to how these projects began and still continue - an intertwined love story of handshakes, boardrooms, unfair labor, and men wanting eyes that were big enough to see the whole world, which joined common resources between the military, government, and private sectors – stories of how the developer of the V-2 missile in Nazi Germany became the lead engineer on the first *successful* American satellite launch, how the International Geophysical Year 1957-1958 implicitly decided altitudes beyond the ionosphere were extranational, and how titles and nomenclatures circulate through an eco-system of immense budgets: Countermeasures Branch, Jet Propulsion Laboratory, Communication Moon Relay, Project Echo, Project Gemini, Operation Crossroads, Corona. 
 
@@ -41,22 +41,3 @@ The first attempt to recapture intelligence footage taken from an early satellit
 ![Catching Dead Satellites with Nets](/images/catching_dead.png)
  
 *March 23, 2015: One capture concept being explored through ESA's e.Deorbit system study for Active Debris Removal - capturing the satellite in a net attached to either a flexible tether (as seen here) or a rigid connection. Credit: ESA*
-
-<a class="embedly-card" href="http://phys.org/news/2015-03-dead-satellites-nets.html">Catching dead satellites with nets</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-air force takes capsules
-navy digs out of sea
-footage is blank – of an empty field
-have we done wrong?
-
-The technique of sending air forces to capture satellite fallout it not unique – just recently they announced a new strategy to collect debris from space – whether it's pieces of satellites from high-impact collisions or long-unpowered husks, with the common term of these being space junk – utilizing highly durable fishing nets.
-
-
-While I'l
-
-See if I can reclaim some of this, how these patient attendants which wait on me have simultaneously less and more power than I ever will, and how we can all relate to each other in this large post-nuclear family. *Full enough to go.*
-
-why we only see space in grayscale	
-
-<a name="2">2</a>: Some footnote

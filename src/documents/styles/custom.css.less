@@ -210,56 +210,8 @@ h1, h2, h3, h4 {
 	margin-bottom: 100px;
 }
 
-#wellbeing {
-	display: block;
-	margin: auto;
-	width: 100%;
-	text-align: center;
-}
-
-#wellbeing::after {
-	content: "";
-	background: url('/images/water.jpg');
-	opacity: 0.5;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	position: absolute;
-	z-index: -1;   
-}
-
-.chart {
-	margin-top: 10%;
-	border-top: 8px rgba(155,155,155,.6) solid;
-}
-
-.chart rect {
-	fill: #333;
-	opacity:.6;
-}
-
-.chart rect:hover {
-	opacity: 1;
-}
-
-
-.chart text {
-	font-family: 'Yanone Kaffeesatz', sans-serif;
-	letter-spacing: .2em;
-	text-transform: uppercase;
-	margin-bottom: 40px;
-	font-size: 16px;
-  	fill: #FFFFFF;
-	text-anchor: middle;
-	cursor: default;
-}
-.chart text:hover {
-	color: #000;
-}
-
-body #current-state {
-	background: url('/images/water.jpg');
+#animate {
+	visibility: hidden;
 }
 
 @media screen and (max-width: 1000px) {

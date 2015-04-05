@@ -3,7 +3,7 @@
 	<title>PROX.IMITY.IO</title>
 	<link href="http://prox.imity.io/atom.xml" rel="self"/>
 	<link href="http://prox.imity.io"/>
-	<updated>2015-04-05T12:01:52.422Z</updated>
+	<updated>2015-04-05T12:57:27.546Z</updated>
 	<id>http://prox.imity.io</id>
 	<author>
 		<name>Mt. Blisset</name>
@@ -14,7 +14,7 @@
 		<entry>
 			<title>Catching Junk with Nets</title>
 			<link href="http://prox.imity.io//posts/catching-junk-with-nets"/>
-			<updated>2015-04-05T12:10:27.000Z</updated>
+			<updated>2015-04-05T12:50:59.000Z</updated>
 			<id>http://prox.imity.io//posts/catching-junk-with-nets</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
@@ -61,11 +61,7 @@
 	&lt;![endif]--&gt;
 
 	&lt;!-- Styles --&gt;
-	&lt;style &gt;html.wait {
-	cursor: wait !important;
-	opacity: 0;
-	transition: opacity 0.5s ease;
-}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/animations.css&quot; /&gt;
 
 	&lt;script&gt;
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -97,13 +93,14 @@
 			&lt;/ul&gt;
 		&lt;/div&gt;
 
-		&lt;!-- Content --&gt;
-		&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+		&lt;div id=&quot;animate&quot; class=&quot;slideDown&quot;&gt;
+			&lt;!-- Content --&gt;
+			&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
 			&lt;div class=&quot;post&quot;&gt;
 				&lt;a name=&quot;#&quot;&gt;&lt;/a&gt;
 				&lt;img class=&quot;post-icon&quot; src=&quot;/images/categories/satellites.png&quot;&gt;
 				&lt;h4&gt;
-					Sun Apr 05 2015 13:10:27 GMT+0100 (BST)
+					Sun Apr 05 2015 13:50:59 GMT+0100 (BST)
 				&lt;/h4&gt;
 
 				&lt;h2&gt;
@@ -119,7 +116,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;The term in astronomy originally described all celestial bodies orbiting a larger one: our moon or Jupiter&amp;#39;s many. In the 20th century, the shift came - an impetus from early space research and Arthur C. Clarke&amp;#39;s &lt;em&gt;&lt;a href=&quot;http://lakdiva.org/clarke/1945ww/1945ww_oct_305-308.html&quot;&gt;Extra-Terrestrial Relays&lt;/a&gt;&lt;/em&gt; essay calling for a global satellite telecommunications system in 1945 - and “artificial” satellites became just satellites, man-made objects, which were in the late 1950s usually just balloons, 100-foot in diameter, coated by thin aluminum foil.&lt;/p&gt;
 &lt;p&gt;These attendants have gone through many changes, what the Telecommunications Industry might call revolutions.&lt;/p&gt;
-&lt;p&gt;In early satellite technology, there was a fundamental question: whether these objects would be #passivereflectors or #activerepeaters. The latter was deemed untenable, for its need to have a long-term power source to send radio waves back to earth, and the first design was chosen. As passive reflectors, these objects&amp;#39; first instantiation evolved into uniformly reflective aluminum-coated spheres; they wouldn&amp;#39;t require a special alignment in orbit to relay waves bounced off their surfaces.[ ^1]&lt;/p&gt;
+&lt;p&gt;In early satellite technology, there was a fundamental question: whether these objects would be #passivereflectors or #activerepeaters. The latter was deemed untenable, for its need to have a long-term power source to send radio waves back to earth, and the first design was chosen. As passive reflectors, these objects&amp;#39; first instantiation evolved into uniformly reflective aluminum-coated spheres; they wouldn&amp;#39;t require a special alignment in orbit to relay waves bounced off their surfaces.&lt;sup&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;There is a narrative to untangle as to how these projects began and still continue - an intertwined love story of handshakes, boardrooms, unfair labor, and men wanting eyes that were big enough to see the whole world, which joined common resources between the military, government, and private sectors – stories of how the developer of the V-2 missile in Nazi Germany became the lead engineer on the first &lt;em&gt;successful&lt;/em&gt; American satellite launch, how the International Geophysical Year 1957-1958 implicitly decided altitudes beyond the ionosphere were extranational, and how titles and nomenclatures circulate through an eco-system of immense budgets: Countermeasures Branch, Jet Propulsion Laboratory, Communication Moon Relay, Project Echo, Project Gemini, Operation Crossroads, Corona. &lt;/p&gt;
 &lt;p&gt;Of course, such things are never easy. The early failures of the U.S. space programme come cloaked in calm, folded hands of eventual triumphs, with men reading off text that&amp;#39;s just slightly too far to see:&lt;/p&gt;
 &lt;iframe class=&quot;responsive-embed&quot; src=&quot;https://www.youtube.com/embed/0osF4MFfdQA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
@@ -130,24 +127,12 @@
 &lt;p&gt;The first attempt to recapture intelligence footage taken from an early satellite, a small canister of film, mobilized several departments of the U.S. military. The Air Force oversaw the early recovery technique for film canisters; mechanically, satellites ejected components carrying the film, and manned aircrafts followed specified routes in the ejection paths to retrieve the canisters with nets trailing in their wake. The first attempt at this failed: the canister eluded the net and sank three miles deep into the ocean. The U.S. Navy immediately acted to retrieve the film. They were successful, but the film, in its own way, was a failure. Exposed, it showed an empty field. There were no Russian military bases, no artillery holds, at the specified location. It appeared likely the American government had greatly overestimated their military capacity. The nuclear threat was, and still is, real, but the scale between narratives of progress and protection clandestinely shifted for a time. Further attempts using nets to retrieve canisters were successful.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/catching_dead.png&quot; alt=&quot;Catching Dead Satellites with Nets&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;March 23, 2015: One capture concept being explored through ESA&amp;#39;s e.Deorbit system study for Active Debris Removal - capturing the satellite in a net attached to either a flexible tether (as seen here) or a rigid connection. Credit: ESA&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&quot;embedly-card&quot; href=&quot;http://phys.org/news/2015-03-dead-satellites-nets.html&quot;&gt;Catching dead satellites with nets&lt;/a&gt;&lt;/p&gt;
-&lt;script async src=&quot;//cdn.embedly.com/widgets/platform.js&quot; charset=&quot;UTF-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;air force takes capsules
-navy digs out of sea
-footage is blank – of an empty field
-have we done wrong?&lt;/p&gt;
-&lt;p&gt;The technique of sending air forces to capture satellite fallout it not unique – just recently they announced a new strategy to collect debris from space – whether it&amp;#39;s pieces of satellites from high-impact collisions or long-unpowered husks, with the common term of these being space junk – utilizing highly durable fishing nets.&lt;/p&gt;
-&lt;p&gt;While I&amp;#39;l&lt;/p&gt;
-&lt;p&gt;See if I can reclaim some of this, how these patient attendants which wait on me have simultaneously less and more power than I ever will, and how we can all relate to each other in this large post-nuclear family. &lt;em&gt;Full enough to go.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;why we only see space in grayscale    &lt;/p&gt;
-&lt;p&gt;&lt;a name=&quot;2&quot;&gt;2&lt;/a&gt;: Some footnote&lt;/p&gt;
 
 
 				&lt;hr&gt;
 			&lt;/div&gt;
 	&lt;/div&gt;
-
+		&lt;/div&gt;
 
 		&lt;!-- Footer --&gt;
 		&lt;footer&gt;
@@ -155,53 +140,18 @@ have we done wrong?&lt;/p&gt;
 		&lt;/footer&gt;
 
 
-	&lt;!-- Scripts --&gt;
-	&lt;script &gt;(function(){
-	/* Did we just livereload? */
-var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
-if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReload completed at', new Date())
-}
+		&lt;script&gt;
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-/* Listen for the regenerated event and perform a reload of the page when the event occurs */
-var listen = function(){
-	var primus = new Primus('/docpad-livereload');
-	primus.on('data', function(data){
-		if ( data &amp;&amp; data.message ) {
-			if ( data.message === 'generateBefore' ) {
-				if ( log ) {
-					console.log('LiveReload started at', new Date());
-				}
-				if ( typeof document.getElementsByTagName !== 'undefined' ) {
-	document.getElementsByTagName('html')[0].className += ' wait';
-}
-			}
-			else if ( data.message === 'generateAfter' ) {
-				if ( log ) {
-					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-				}
-				document.location.reload();
-			}
-		}
-	});
-};
-	/* Inject socket into our page */
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = 'async';
-	t.src = '/primus/primus.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t, s);
-};
-	if ( typeof Primus !== 'undefined' ) {
-		listen();
-	} else {
-		inject();
-	}
-})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//maps.stamen.com/js/tile.stamen.js?v1.3.0&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/js/leaflet.ajax.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+			ga('create', 'UA-59785432-3', 'auto');
+			ga('send', 'pageview');
+		&lt;/script&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//maps.stamen.com/js/tile.stamen.js?v1.3.0&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/js/leaflet.ajax.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
 
 
 
