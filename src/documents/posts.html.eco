@@ -1,0 +1,25 @@
+---
+title: Posts
+layout: default
+---
+
+	<div class="col-md-6 col-md-offset-3">
+		<% for document in @getCollection('posts').toJSON(): %>
+			<div class="post">
+				<img class="post-icon" src="/images/categories/<%- document.category %>.png">
+				<h4>
+					<%- document.date %>
+				</h4>
+
+				<h2>
+					<a href="<%- document.url %>">
+						<%- document.title %>
+					</a>
+				</h2>
+
+				<%- document.contentRenderedWithoutLayouts %>
+
+				<hr>
+			</div>
+		<% end %>
+	</div>

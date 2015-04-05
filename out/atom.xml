@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>PROX.IMITY.IO</title>
+	<link href="http://prox.imity.io/atom.xml" rel="self"/>
+	<link href="http://prox.imity.io"/>
+	<updated>2015-04-05T12:01:52.422Z</updated>
+	<id>http://prox.imity.io</id>
+	<author>
+		<name>Mt. Blisset</name>
+		<email>prox@imity.io</email>
+	</author>
+
+	
+		<entry>
+			<title>Catching Junk with Nets</title>
+			<link href="http://prox.imity.io//posts/catching-junk-with-nets"/>
+			<updated>2015-04-05T12:10:27.000Z</updated>
+			<id>http://prox.imity.io//posts/catching-junk-with-nets</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Catching Junk with Nets | PROX.IMITY.IO&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;PROX.IMITY.IO is an experimental research project for astrological inquiry into modern satellite technology and its quotidian geopolitical ramifications. &quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;satellite technology, astrology, history, cold war, satellite communications, space race, satellites, omenology, ephemeris, lens, grand narratives, microchimeras, serenity&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Mt. Blisset&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.73.5&quot; /&gt;
+
+	&lt;!-- Open Graph --&gt;
+	&lt;meta property=&quot;og:title&quot; content=&quot;PROX.IMITY.IO&quot; /&gt;
+	&lt;meta property=&quot;og:type&quot; content=&quot;website&quot; /&gt;
+	&lt;meta property=&quot;og:description&quot; content=&quot;PROX.IMITY.IO is an experimental research project for astrological inquiry into modern satellite technology and its quotidian geopolitical ramifications. &quot; /&gt;
+	&lt;meta property=&quot;og:tags&quot; content=&quot;satellite technology, astrology, history, cold war, satellite communications, space race, satellites, omenology, ephemeris, lens, grand narratives, microchimeras, serenity&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Mt. Blisset&quot; /&gt;
+	&lt;meta property=&quot;og:url&quot; content=&quot;http://prox.imity.io/&quot; /&gt;
+	&lt;meta property=&quot;og:image&quot; content=&quot;http://prox.imity.io/images/solaris.jpg&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/images/icons/favicon.png&quot;&gt;
+		
+	&lt;!-- Fonts --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;
+
+	&lt;script&gt;
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-59785432-1', 'auto');
+		ga('send', 'pageview');
+	&lt;/script&gt;
+
+&lt;/head&gt;
+&lt;body&gt;
+
+		&lt;div class=&quot;menu&quot;&gt;
+			&lt;ul&gt;
+				&lt;li&gt;
+					&lt;a href=&quot;/&quot;&gt;&lt;i class=&quot;fa fa-sun-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;a href=&quot;/posts/satellites&quot;&gt;Satellites&lt;/a&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;a href=&quot;/posts/astrologies&quot;&gt;Astrologies&lt;/a&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;a href=&quot;/posts/fictions&quot;&gt;Fictions&lt;/a&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;!-- Content --&gt;
+		&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+			&lt;div class=&quot;post&quot;&gt;
+				&lt;a name=&quot;#&quot;&gt;&lt;/a&gt;
+				&lt;img class=&quot;post-icon&quot; src=&quot;/images/categories/satellites.png&quot;&gt;
+				&lt;h4&gt;
+					Sun Apr 05 2015 13:10:27 GMT+0100 (BST)
+				&lt;/h4&gt;
+
+				&lt;h2&gt;
+					Catching Junk with Nets
+				&lt;/h2&gt;
+
+				&lt;p&gt;It was a late night this December in Athens amongst a group of friends when I learned of &lt;em&gt;&lt;a href=&quot;http://paglen.com/lastpictures/main.php?m=overview&amp;amp;p=&quot;&gt;The Last Pictures&lt;/a&gt;&lt;/em&gt; project, in which a team of designers, engineers, and historians, lead by artist Trevor Paglen, worked to create a specialized capsule attached to a satellite containing 100 pictures of &lt;em&gt;life on Earth&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The project pointed to the enormous amount of objects we&amp;#39;ve launched into geo-syncrhonous orbit around the earth; with around 800 active satellites in this orbit, and many pieces and unpowered scraps still floating, long after this planet is uninhabitable, there will still likely be man-made metal rings, hovering. &lt;em&gt;The Last Pictures&lt;/em&gt; is an archive.&lt;/p&gt;
+&lt;p&gt;Several times that day I had checked my horoscope. Both at &lt;a href=&quot;http://astro.com&quot;&gt;astro.com&lt;/a&gt; and &lt;a href=&quot;http://cafeastrology.com&quot;&gt;cafeastrology.com&lt;/a&gt;, I returned to the pages like I was expecting new content, re-reading the words for cues I&amp;#39;d missed, for little, intimated signs of a direction things might take. We had been drinking a lot, clawing at some purpose.&lt;/p&gt;
+&lt;p&gt;A thought began, probably, from a personal need to feel somehow guided – we have more satellites than ever. The etymology of the term, which came into use in the 1540s, likely derives from the Latin &lt;em&gt;satellitem&lt;/em&gt; (nominative &lt;em&gt;satelles&lt;/em&gt;) &amp;quot;attendant, companion, courtier, accomplice, assistant.&amp;quot; Attend, attendre, to wait and to follow, or an accomplice: a shadowing guide. Satellite countries are subservient. The exact roots are not clear.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;satro-&lt;/em&gt; &amp;quot;full, enough&amp;quot; + &lt;em&gt;leit-&lt;/em&gt; &amp;quot;to go&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The term in astronomy originally described all celestial bodies orbiting a larger one: our moon or Jupiter&amp;#39;s many. In the 20th century, the shift came - an impetus from early space research and Arthur C. Clarke&amp;#39;s &lt;em&gt;&lt;a href=&quot;http://lakdiva.org/clarke/1945ww/1945ww_oct_305-308.html&quot;&gt;Extra-Terrestrial Relays&lt;/a&gt;&lt;/em&gt; essay calling for a global satellite telecommunications system in 1945 - and “artificial” satellites became just satellites, man-made objects, which were in the late 1950s usually just balloons, 100-foot in diameter, coated by thin aluminum foil.&lt;/p&gt;
+&lt;p&gt;These attendants have gone through many changes, what the Telecommunications Industry might call revolutions.&lt;/p&gt;
+&lt;p&gt;In early satellite technology, there was a fundamental question: whether these objects would be #passivereflectors or #activerepeaters. The latter was deemed untenable, for its need to have a long-term power source to send radio waves back to earth, and the first design was chosen. As passive reflectors, these objects&amp;#39; first instantiation evolved into uniformly reflective aluminum-coated spheres; they wouldn&amp;#39;t require a special alignment in orbit to relay waves bounced off their surfaces.[ ^1]&lt;/p&gt;
+&lt;p&gt;There is a narrative to untangle as to how these projects began and still continue - an intertwined love story of handshakes, boardrooms, unfair labor, and men wanting eyes that were big enough to see the whole world, which joined common resources between the military, government, and private sectors – stories of how the developer of the V-2 missile in Nazi Germany became the lead engineer on the first &lt;em&gt;successful&lt;/em&gt; American satellite launch, how the International Geophysical Year 1957-1958 implicitly decided altitudes beyond the ionosphere were extranational, and how titles and nomenclatures circulate through an eco-system of immense budgets: Countermeasures Branch, Jet Propulsion Laboratory, Communication Moon Relay, Project Echo, Project Gemini, Operation Crossroads, Corona. &lt;/p&gt;
+&lt;p&gt;Of course, such things are never easy. The early failures of the U.S. space programme come cloaked in calm, folded hands of eventual triumphs, with men reading off text that&amp;#39;s just slightly too far to see:&lt;/p&gt;
+&lt;iframe class=&quot;responsive-embed&quot; src=&quot;https://www.youtube.com/embed/0osF4MFfdQA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The failure rate of satellite launch and recovery was high to start, with nearly 90% mission failure between 1959 and 1964 [look this up]. With failures perhaps expected, more piquant is the way in which equipment, labor, and millions were lost and apologized for by ever-more investment – with dates for second attempts often proclaimed just minutes after launch failures&lt;sup&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; – and by narratives of mankind&amp;#39;s progress becoming even more entrenched and difficult to derail.&lt;/p&gt;
+&lt;p&gt;In the video above, the only Russian footage used is labelled well.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/russian_film.png&quot; alt=&quot;Russian Film&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The first attempt to recapture intelligence footage taken from an early satellite, a small canister of film, mobilized several departments of the U.S. military. The Air Force oversaw the early recovery technique for film canisters; mechanically, satellites ejected components carrying the film, and manned aircrafts followed specified routes in the ejection paths to retrieve the canisters with nets trailing in their wake. The first attempt at this failed: the canister eluded the net and sank three miles deep into the ocean. The U.S. Navy immediately acted to retrieve the film. They were successful, but the film, in its own way, was a failure. Exposed, it showed an empty field. There were no Russian military bases, no artillery holds, at the specified location. It appeared likely the American government had greatly overestimated their military capacity. The nuclear threat was, and still is, real, but the scale between narratives of progress and protection clandestinely shifted for a time. Further attempts using nets to retrieve canisters were successful.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/catching_dead.png&quot; alt=&quot;Catching Dead Satellites with Nets&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;March 23, 2015: One capture concept being explored through ESA&amp;#39;s e.Deorbit system study for Active Debris Removal - capturing the satellite in a net attached to either a flexible tether (as seen here) or a rigid connection. Credit: ESA&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;embedly-card&quot; href=&quot;http://phys.org/news/2015-03-dead-satellites-nets.html&quot;&gt;Catching dead satellites with nets&lt;/a&gt;&lt;/p&gt;
+&lt;script async src=&quot;//cdn.embedly.com/widgets/platform.js&quot; charset=&quot;UTF-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;air force takes capsules
+navy digs out of sea
+footage is blank – of an empty field
+have we done wrong?&lt;/p&gt;
+&lt;p&gt;The technique of sending air forces to capture satellite fallout it not unique – just recently they announced a new strategy to collect debris from space – whether it&amp;#39;s pieces of satellites from high-impact collisions or long-unpowered husks, with the common term of these being space junk – utilizing highly durable fishing nets.&lt;/p&gt;
+&lt;p&gt;While I&amp;#39;l&lt;/p&gt;
+&lt;p&gt;See if I can reclaim some of this, how these patient attendants which wait on me have simultaneously less and more power than I ever will, and how we can all relate to each other in this large post-nuclear family. &lt;em&gt;Full enough to go.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;why we only see space in grayscale    &lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;2&quot;&gt;2&lt;/a&gt;: Some footnote&lt;/p&gt;
+
+
+				&lt;hr&gt;
+			&lt;/div&gt;
+	&lt;/div&gt;
+
+
+		&lt;!-- Footer --&gt;
+		&lt;footer&gt;
+			PROX.IMITY.IO is an experimental research project for astrological inquiry into modern satellite technology and its quotidian geopolitical ramifications.
+		&lt;/footer&gt;
+
+
+	&lt;!-- Scripts --&gt;
+	&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//maps.stamen.com/js/tile.stamen.js?v1.3.0&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/js/leaflet.ajax.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+</feed>
