@@ -3,7 +3,7 @@
 	<title>PROX.IMITY.IO</title>
 	<link href="http://prox.imity.io/atom.xml" rel="self"/>
 	<link href="http://prox.imity.io"/>
-	<updated>2015-04-05T12:57:27.546Z</updated>
+	<updated>2015-04-05T15:29:14.249Z</updated>
 	<id>http://prox.imity.io</id>
 	<author>
 		<name>Mt. Blisset</name>
@@ -14,7 +14,7 @@
 		<entry>
 			<title>Catching Junk with Nets</title>
 			<link href="http://prox.imity.io//posts/catching-junk-with-nets"/>
-			<updated>2015-04-05T12:50:59.000Z</updated>
+			<updated>2015-04-05T15:40:11.000Z</updated>
 			<id>http://prox.imity.io//posts/catching-junk-with-nets</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
@@ -61,7 +61,11 @@
 	&lt;![endif]--&gt;
 
 	&lt;!-- Styles --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//api.tiles.mapbox.com/mapbox.js/v2.1.0/mapbox.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/animations.css&quot; /&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/animations.css&quot; /&gt;
 
 	&lt;script&gt;
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -100,33 +104,43 @@
 				&lt;a name=&quot;#&quot;&gt;&lt;/a&gt;
 				&lt;img class=&quot;post-icon&quot; src=&quot;/images/categories/satellites.png&quot;&gt;
 				&lt;h4&gt;
-					Sun Apr 05 2015 13:50:59 GMT+0100 (BST)
+					Sun Apr 05 2015 16:40:11 GMT+0100 (BST)
 				&lt;/h4&gt;
 
 				&lt;h2&gt;
 					Catching Junk with Nets
 				&lt;/h2&gt;
 
-				&lt;p&gt;It was a late night this December in Athens amongst a group of friends when I learned of &lt;em&gt;&lt;a href=&quot;http://paglen.com/lastpictures/main.php?m=overview&amp;amp;p=&quot;&gt;The Last Pictures&lt;/a&gt;&lt;/em&gt; project, in which a team of designers, engineers, and historians, lead by artist Trevor Paglen, worked to create a specialized capsule attached to a satellite containing 100 pictures of &lt;em&gt;life on Earth&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;The project pointed to the enormous amount of objects we&amp;#39;ve launched into geo-syncrhonous orbit around the earth; with around 800 active satellites in this orbit, and many pieces and unpowered scraps still floating, long after this planet is uninhabitable, there will still likely be man-made metal rings, hovering. &lt;em&gt;The Last Pictures&lt;/em&gt; is an archive.&lt;/p&gt;
+				&lt;p&gt;A late night in December in Athens, we watched Trevor Paglen&amp;#39;s talk from the Extinction Marathon describing &lt;em&gt;&lt;a href=&quot;http://paglen.com/lastpictures/main.php?m=overview&amp;amp;p=&quot;&gt;The Last Pictures&lt;/a&gt;&lt;/em&gt; project, in which a team of designers, engineers, and historians, lead by artist Trevor Paglen, worked to create a specialized capsule attached to a satellite containing 100 pictures of &lt;em&gt;life on Earth&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The project pointed to the enormous amount of objects we&amp;#39;ve launched into geo-syncrhonous orbit around the earth; there are around 800 active satellites in this orbit, with many pieces and unpowered scraps still floating, so, long after this planet is uninhabitable, there will still likely be man-made metal rings, hovering. &lt;em&gt;The Last Pictures&lt;/em&gt; is an archive.&lt;/p&gt;
 &lt;p&gt;Several times that day I had checked my horoscope. Both at &lt;a href=&quot;http://astro.com&quot;&gt;astro.com&lt;/a&gt; and &lt;a href=&quot;http://cafeastrology.com&quot;&gt;cafeastrology.com&lt;/a&gt;, I returned to the pages like I was expecting new content, re-reading the words for cues I&amp;#39;d missed, for little, intimated signs of a direction things might take. We had been drinking a lot, clawing at some purpose.&lt;/p&gt;
-&lt;p&gt;A thought began, probably, from a personal need to feel somehow guided – we have more satellites than ever. The etymology of the term, which came into use in the 1540s, likely derives from the Latin &lt;em&gt;satellitem&lt;/em&gt; (nominative &lt;em&gt;satelles&lt;/em&gt;) &amp;quot;attendant, companion, courtier, accomplice, assistant.&amp;quot; Attend, attendre, to wait and to follow, or an accomplice: a shadowing guide. Satellite countries are subservient. The exact roots are not clear.&lt;/p&gt;
+&lt;p&gt;A thought began, probably, from a personal need to feel somehow guided.&lt;/p&gt;
+&lt;p&gt;We have more satellites than ever. The etymology of the term, which came into use in the 1540s, likely derives from the Latin &lt;em&gt;satellitem&lt;/em&gt; (nominative &lt;em&gt;satelles&lt;/em&gt;) &amp;quot;attendant, companion, courtier, accomplice, assistant.&amp;quot; Attend, attendre, to wait and to follow, or an accomplice: a shadowing guide. Satellite countries are subservient. The exact roots are not clear.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;satro-&lt;/em&gt; &amp;quot;full, enough&amp;quot; + &lt;em&gt;leit-&lt;/em&gt; &amp;quot;to go&amp;quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The term in astronomy originally described all celestial bodies orbiting a larger one: our moon or Jupiter&amp;#39;s many. In the 20th century, the shift came - an impetus from early space research and Arthur C. Clarke&amp;#39;s &lt;em&gt;&lt;a href=&quot;http://lakdiva.org/clarke/1945ww/1945ww_oct_305-308.html&quot;&gt;Extra-Terrestrial Relays&lt;/a&gt;&lt;/em&gt; essay calling for a global satellite telecommunications system in 1945 - and “artificial” satellites became just satellites, man-made objects, which were in the late 1950s usually just balloons, 100-foot in diameter, coated by thin aluminum foil.&lt;/p&gt;
 &lt;p&gt;These attendants have gone through many changes, what the Telecommunications Industry might call revolutions.&lt;/p&gt;
 &lt;p&gt;In early satellite technology, there was a fundamental question: whether these objects would be #passivereflectors or #activerepeaters. The latter was deemed untenable, for its need to have a long-term power source to send radio waves back to earth, and the first design was chosen. As passive reflectors, these objects&amp;#39; first instantiation evolved into uniformly reflective aluminum-coated spheres; they wouldn&amp;#39;t require a special alignment in orbit to relay waves bounced off their surfaces.&lt;sup&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;There is a narrative to untangle as to how these projects began and still continue - an intertwined love story of handshakes, boardrooms, unfair labor, and men wanting eyes that were big enough to see the whole world, which joined common resources between the military, government, and private sectors – stories of how the developer of the V-2 missile in Nazi Germany became the lead engineer on the first &lt;em&gt;successful&lt;/em&gt; American satellite launch, how the International Geophysical Year 1957-1958 implicitly decided altitudes beyond the ionosphere were extranational, and how titles and nomenclatures circulate through an eco-system of immense budgets: Countermeasures Branch, Jet Propulsion Laboratory, Communication Moon Relay, Project Echo, Project Gemini, Operation Crossroads, Corona. &lt;/p&gt;
+&lt;p&gt;The narrative of early satellite technology is an intertwined love story of handshakes, boardrooms, unfair labor, and men wanting eyes that were big enough to see the whole world, which joined common resources between the military, government, and private sectors – stories of how the developer of the V-2 missile in Nazi Germany became the lead engineer on the first &lt;em&gt;successful&lt;/em&gt; American satellite launch, how the International Geophysical Year 1957-1958 implicitly decided altitudes beyond the ionosphere were extranational, and how titles and nomenclatures circulate through an eco-system of immense budgets: Countermeasures Branch, Jet Propulsion Laboratory, Communication Moon Relay, Project Echo, Project Gemini, Operation Crossroads, Corona. &lt;/p&gt;
 &lt;p&gt;Of course, such things are never easy. The early failures of the U.S. space programme come cloaked in calm, folded hands of eventual triumphs, with men reading off text that&amp;#39;s just slightly too far to see:&lt;/p&gt;
-&lt;iframe class=&quot;responsive-embed&quot; src=&quot;https://www.youtube.com/embed/0osF4MFfdQA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe  width=&quot;420&quot; height=&quot;315&quot; class=&quot;embed-responsive-item&quot; src=&quot;https://www.youtube.com/embed/0osF4MFfdQA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;The failure rate of satellite launch and recovery was high to start, with nearly 90% mission failure between 1959 and 1964 [look this up]. With failures perhaps expected, more piquant is the way in which equipment, labor, and millions were lost and apologized for by ever-more investment – with dates for second attempts often proclaimed just minutes after launch failures&lt;sup&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; – and by narratives of mankind&amp;#39;s progress becoming even more entrenched and difficult to derail.&lt;/p&gt;
+&lt;p&gt;The failure rate of satellite launch and recovery was high to start. With failures perhaps expected, more piquant is the way in which equipment, labor, and millions were lost and apologized for by ever-more investment – with dates for second attempts often proclaimed just minutes after launch failures&lt;sup&gt;&lt;a href=&quot;#2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; – and by narratives of mankind&amp;#39;s progress becoming even more entrenched and difficult to derail.&lt;/p&gt;
 &lt;p&gt;In the video above, the only Russian footage used is labelled well.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/russian_film.png&quot; alt=&quot;Russian Film&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The first attempt to recapture intelligence footage taken from an early satellite, a small canister of film, mobilized several departments of the U.S. military. The Air Force oversaw the early recovery technique for film canisters; mechanically, satellites ejected components carrying the film, and manned aircrafts followed specified routes in the ejection paths to retrieve the canisters with nets trailing in their wake. The first attempt at this failed: the canister eluded the net and sank three miles deep into the ocean. The U.S. Navy immediately acted to retrieve the film. They were successful, but the film, in its own way, was a failure. Exposed, it showed an empty field. There were no Russian military bases, no artillery holds, at the specified location. It appeared likely the American government had greatly overestimated their military capacity. The nuclear threat was, and still is, real, but the scale between narratives of progress and protection clandestinely shifted for a time. Further attempts using nets to retrieve canisters were successful.&lt;/p&gt;
+&lt;p&gt;The first attempt to recapture intelligence footage taken from an early satellite, a small canister of film, mobilized several departments of the U.S. military. The Air Force oversaw the early recovery technique for film canisters; mechanically, satellites ejected components carrying the film, and manned aircrafts followed specified routes in the ejection paths to retrieve the canisters with nets trailing in their aircraft&amp;#39;s wake. The first attempt at this failed: the canister eluded the net and sank three miles deep into the ocean. The U.S. Navy immediately acted to retrieve the film, but the film, in its own way, was a failure. Exposed, it showed an empty field. There were no Russian military bases, no artillery holds, at the specified location. It appeared likely the American government had greatly overestimated their military capacity. The nuclear threat was, and still is, real, but the scale between narratives of progress and protection clandestinely shifted for a time. Further attempts using nets to retrieve canisters were successful.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/catching_dead.png&quot; alt=&quot;Catching Dead Satellites with Nets&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;March 23, 2015: One capture concept being explored through ESA&amp;#39;s e.Deorbit system study for Active Debris Removal - capturing the satellite in a net attached to either a flexible tether (as seen here) or a rigid connection. Credit: ESA&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;div class=&quot;caption&quot;&gt;March 23, 2015: One capture concept being explored through ESA&amp;#39;s e.Deorbit system study for Active Debris Removal - capturing the satellite in a net attached to either a flexible tether (as seen here) or a rigid connection. Credit: ESA.&lt;/div&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Today we&amp;#39;re still trying to fly nets in space, the kinds of nets that fishermen use. Space simulators test rainbow-hued, thin spun nets as they trail crafts in orbit and collect the detritus from high-impact collisions and the husks of formerly-powered satellites. &lt;/p&gt;
+&lt;p&gt;The image of space wants to be strong lines, hard cuts, and grayscale, with warm blue skys and pale rockets launching into the air and slightly tilting, preparing for orbit. These hard lines seem less and less prepared for orbital travel. Lunar-like shopping centers have the curved roofs of UN buildings, but the atmosphere is still too harsh for us to be comfortable. The first space suit worn on the moon – different from the design in press images – encased 27 layers of Playtex, manufactured by a brassiere company.&lt;/p&gt;
+&lt;p&gt;I check my horoscope on my phone via a 3G communications satellite network. From cafeastrology.com, it reads:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mars in your sign increases your courage and gumption, dear Taurus, but there are times when you need to slow down a little. Today, a sensitivity experienced over a friend could have you second-guessing. Take the time to center yourself before getting yourself back in the game. Something from the past might be undermining your confidence at the moment. Issues from the past can play in your mind so strongly that they are as vivid as your present. You would be wise to deal with matters that you&amp;#39;ve left unfinished so that guilt doesn&amp;#39;t get in the way of healthy living. Circumstances may be such that you need to let go of a tendency to hold on too tightly to your beliefs and customs if they&amp;#39;re only causing frustration. Let others in. As the day advances, you are more willing to relax, and this encourages truly helpful ideas.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;My past is as vivid as my present, catching junk with nets.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/trawlers.jpg&quot; alt=&quot;Bottom Trawlers&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;div class=&quot;caption&quot;&gt;Satellite image of bottom trawlers off Louisiana Coast (December 2010).&lt;/div&gt;&lt;/em&gt;&lt;/p&gt;
 
 
 				&lt;hr&gt;
@@ -151,7 +165,52 @@
 		&lt;/script&gt;
 
 	&lt;!-- Scripts --&gt;
-	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//maps.stamen.com/js/tile.stamen.js?v1.3.0&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/js/leaflet.ajax.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 
 
 

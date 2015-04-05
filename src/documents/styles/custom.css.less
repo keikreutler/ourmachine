@@ -41,6 +41,7 @@ a:hover, a:active  {
 		width: 85%;
 	}
 	iframe {
+		position: relative;
 		display: block;
 		margin: 20px auto;
 		width: 85%;
@@ -58,6 +59,17 @@ a:hover, a:active  {
 
 .hero-unit {
 	margin-left: 100px;
+}
+
+blockquote p {
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.caption {
+	font-size: 12px;
+	text-align: center;
+	margin-top: -10px;
 }
 
 footer a, footer a:visited {
@@ -148,20 +160,6 @@ footer {
 	background: url('/images/solaris.jpg');
 }
 
-
-/*#map::after {
-	content: "";
-	background: url('/images/solaris.jpg');
-	width: 100%;
-	opacity: 0.2;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	position: absolute;
-	z-index: 999;   
-}
-*/
 .shadow {
 	-moz-box-shadow:    0 1px 2px 3px #ccc;
 	-webkit-box-shadow: 0 1px 5px 3px #ccc;
@@ -236,5 +234,9 @@ h1, h2, h3, h4 {
 		font-size: 12px;
 		padding: 10px;
 		white-space: wrap;
+	}
+	.feed {
+		margin: 300px 0 0px 0;
+		z-index: 100;
 	}
 }
