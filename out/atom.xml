@@ -3,7 +3,7 @@
 	<title>PROX.IMITY.IO</title>
 	<link href="http://prox.imity.io/atom.xml" rel="self"/>
 	<link href="http://prox.imity.io"/>
-	<updated>2015-04-08T15:44:06.301Z</updated>
+	<updated>2015-04-08T16:54:39.246Z</updated>
 	<id>http://prox.imity.io</id>
 	<author>
 		<name>Mt. Blisset</name>
@@ -14,7 +14,7 @@
 		<entry>
 			<title>Metal Reefs</title>
 			<link href="http://prox.imity.io//posts/metal-reefs"/>
-			<updated>2015-04-08T15:43:39.980Z</updated>
+			<updated>2015-04-08T16:59:46.688Z</updated>
 			<id>http://prox.imity.io//posts/metal-reefs</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
@@ -115,18 +115,190 @@
 &lt;blockquote&gt;
 &lt;p&gt;Jupiter, the Great Benefic, is coming to the end of its retrograde period and begins its forward journey in direct motion today, Taurus. Intimate matters become clearer and finances move forward with Jupiter&amp;#39;s direct motion. If you&amp;#39;ve been procrastinating on settling your finances, you&amp;#39;re now ready to tackle them. Your head clears in terms of your more practical goals. As well, your home life becomes happier, warmer, and more supportive. You regain enthusiasm for projects you may have let go around the house, and for some of you, a family relationship can bud or strengthen. Your motivation to get back on track is returning.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;I&amp;#39;m not sure if a Benefic is a typo.&lt;/p&gt;
-&lt;p&gt;The above sounds right to me; the last months have been stressful and precarious. My stability has been shelved with ever-going movement, rarely having a place to keep my things and no mandated focus. Tasks are picked at, and put down, never &lt;em&gt;totally&lt;/em&gt; finished. Productivity is not the problem; there&amp;#39;s something missing. &amp;quot;Incomplete emotional transactions.&amp;quot;&lt;/p&gt;
-&lt;p&gt;From the Red Notebook: An Oracle of Only Questions [sic], on 17 March 2015:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Subliminal Continuity&lt;/p&gt;
-&lt;p&gt;There is no place for insanity
-in Contemporary Art&lt;/p&gt;
-&lt;p&gt;(Except at Distance?)&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Is Benefic a typo?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Relation to horoscope: 9/10&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/ice_station_zebra.jpg&quot; alt=&quot;Ice Station Zebra&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;div class=&quot;caption&quot;&gt;Ice Station Zebra (1968) is a cold-war era suspense and espionage film directed by John Sturges, starring Rock Hudson, Patrick McGoohan, Ernest Borgnine, and Jim Brown. The plot has parallels to events reported in news stories from April 1959, concerning a missing experimental Corona satellite capsule (Discoverer II) that inadvertently landed near Spitsbergen, situated in the Arctic Ocean, on April 13, which was believed to have been recovered by Soviet agents.&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;&lt;em&gt;Ice Station Zebra (1968)&lt;/em&gt; is a cold-war era suspense and espionage film directed by John Sturges, starring Rock Hudson, Patrick McGoohan, Ernest Borgnine, and Jim Brown. The plot has parallels to events reported in news stories from April 1959, concerning a missing experimental Corona satellite capsule (Discoverer II) that inadvertently landed near Spitsbergen, situated in the Arctic Ocean, on April 13, which was believed to have been recovered by Soviet agents.&lt;/div&gt;
 
+&lt;p&gt;We sat outside by the canal and talked about how it&amp;#39;s important to have your shit together. I&amp;#39;m not sure if it&amp;#39;s just the latest evolution in false consciousness, or a bit closer to the truth, but I&amp;#39;m too preoccupied with (1) crossing things off. From what blood line have I inherited this? Secondly, (2), it&amp;#39;s that hard task for an artist to somehow &lt;em&gt;not absorb everything&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Where is the spiritual sweat? Give it 100 years.&lt;/p&gt;
+&lt;p&gt;Yesterday there was an article I read via the Google alert I currently have set up for just the term &amp;quot;satellites.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;embedly-card&quot; href=&quot;http://www.atlasobscura.com/places/spacecraft-cemetery&quot;&gt;Spacecraft Cemetery&lt;/a&gt;&lt;/p&gt;
+&lt;script async src=&quot;//cdn.embedly.com/widgets/platform.js&quot; charset=&quot;UTF-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;There&amp;#39;s a place just south of New Zealand where they guide unpowered and broken bits of space debris in orbit, the stuff that&amp;#39;s too large to burn up upon re-entering the Earth&amp;#39;s atmosphere. It sinks to the bottom of the ocean, somewhere scattered alongside other artifacts, including the old Russian space station &lt;em&gt;Mir&lt;/em&gt;. I&amp;#39;m not sure what could be left of it now, but if things keep being guided toward this hallowed resting ground, eventually the junk will gain enough traction and start to build up. People are speculating about this reef for &amp;quot;archaeologists of the future&amp;quot; to find. There&amp;#39;s something unsaid in our venerated imagination of things, our things, in the future that &lt;em&gt;won&amp;#39;t be used&lt;/em&gt;. I hope Jupiter stays out of retrograde forever.&lt;/p&gt;
+
+
+				&lt;hr&gt;
+			&lt;/div&gt;
+	&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;!-- Footer --&gt;
+		&lt;footer&gt;
+			PROX.IMITY.IO is an experimental research project for astrological inquiry into modern satellite technology and its quotidian geopolitical ramifications.
+		&lt;/footer&gt;
+
+
+	&lt;!-- Scripts --&gt;
+	&lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/bootstrap-custom.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Maybe I am like this shape</title>
+			<link href="http://prox.imity.io//posts/this-shape"/>
+			<updated>2015-04-08T16:57:52.512Z</updated>
+			<id>http://prox.imity.io//posts/this-shape</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Maybe I am like this shape | PROX.IMITY.IO&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;PROX.IMITY.IO is an experimental research project for astrological inquiry into modern satellite technology and its quotidian geopolitical ramifications.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;satellite technology, astrology, history, cold war, satellite communications, space race, satellites, omenology, ephemeris, lens, grand narratives, microchimeras, serenity&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Mt. Blisset&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.78.1&quot; /&gt;
+
+	&lt;!-- Open Graph --&gt;
+	&lt;meta property=&quot;og:title&quot; content=&quot;PROX.IMITY.IO&quot; /&gt;
+	&lt;meta property=&quot;og:type&quot; content=&quot;website&quot; /&gt;
+	&lt;meta property=&quot;og:description&quot; content=&quot;PROX.IMITY.IO is an experimental research project for astrological inquiry into modern satellite technology and its quotidian geopolitical ramifications. &quot; /&gt;
+	&lt;meta property=&quot;og:tags&quot; content=&quot;satellite technology, astrology, history, cold war, satellite communications, space race, satellites, omenology, ephemeris, lens, grand narratives, microchimeras, serenity&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Mt. Blisset&quot; /&gt;
+	&lt;meta property=&quot;og:url&quot; content=&quot;http://prox.imity.io/&quot; /&gt;
+	&lt;meta property=&quot;og:image&quot; content=&quot;http://prox.imity.io/images/solaris.jpg&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/images/icons/favicon.png&quot;&gt;
+
+	&lt;!-- Fonts --&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+	&lt;link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/custom.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/animations.css&quot; /&gt;
+
+	&lt;script&gt;
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-59785432-3', 'auto');
+		ga('send', 'pageview');
+	&lt;/script&gt;
+
+&lt;/head&gt;
+&lt;body&gt;
+
+		&lt;div class=&quot;menu&quot;&gt;
+			&lt;ul&gt;
+				&lt;li&gt;
+					&lt;a href=&quot;/&quot;&gt;&lt;i class=&quot;fa fa-sun-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;a href=&quot;/posts/satellites&quot;&gt;Satellites&lt;/a&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;a href=&quot;/posts/astrologies&quot;&gt;Astrologies&lt;/a&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;a href=&quot;/posts/fictions&quot;&gt;Fictions&lt;/a&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+
+		&lt;div id=&quot;animate&quot; class=&quot;fadeInSoft&quot;&gt;
+			&lt;!-- Content --&gt;
+			&lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;
+			&lt;div class=&quot;post&quot;&gt;
+				&lt;a name=&quot;#&quot;&gt;&lt;/a&gt;
+				&lt;img class=&quot;post-icon&quot; src=&quot;/images/categories/astrologies.png&quot;&gt;
+				&lt;h4&gt;
+					Wed Apr 08 2015 17:49:23 GMT+0100 (BST)
+				&lt;/h4&gt;
+
+				&lt;h2&gt;
+					Maybe I am like this shape
+				&lt;/h2&gt;
+
+				&lt;p&gt;&lt;img src=&quot;/images/birth_chart.png&quot; alt=&quot;Kei Kreutler&amp;#39;s birth chart&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;caption&quot;&gt;
+&lt;em&gt;17 May 1990 at 11:19 , Weymouth, MA (US)&lt;/em&gt;
+&lt;/div&gt;
 
 				&lt;hr&gt;
 			&lt;/div&gt;
@@ -197,7 +369,7 @@ var inject = function(){
 		<entry>
 			<title>Simulated debris image sequence</title>
 			<link href="http://prox.imity.io//posts/simulated-debris"/>
-			<updated>2015-04-08T15:43:18.324Z</updated>
+			<updated>2015-04-08T16:07:56.256Z</updated>
 			<id>http://prox.imity.io//posts/simulated-debris</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
@@ -296,10 +468,12 @@ var inject = function(){
 
 				&lt;div class=&quot;text-center&quot;&gt;
 
-&lt;p&gt;  The vertical edge of space&lt;/p&gt;
-&lt;p&gt;  International Geophysical Year&lt;/p&gt;
-&lt;p&gt;  Moving a large object through a desolate countryside.&lt;/p&gt;
-&lt;p&gt;  &amp;quot;Surely you&amp;#39;ve done this.&amp;quot;&lt;/p&gt;
+  The vertical edge of space&lt;br&gt;
+  International Geophysical Year&lt;br&gt;
+  Moving a large object through a desolate countryside.&lt;br&gt;
+  &amp;quot;Surely you&amp;#39;ve done this.&amp;quot;&lt;br&gt;
+&lt;/div&gt;
+
 &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lDxzFXT9Dck?start=094&amp;version=3&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 				&lt;hr&gt;
