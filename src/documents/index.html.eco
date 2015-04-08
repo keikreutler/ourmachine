@@ -23,7 +23,7 @@ layout: 'default'
 						</h3>
 
 						<h4>
-							<%- document.date %>
+							<%- document.docTime %>
 						</h4>
 					</div>
 				</div>

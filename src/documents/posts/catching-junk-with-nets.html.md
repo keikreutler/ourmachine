@@ -2,6 +2,7 @@
 title: Catching Junk with Nets
 layout: post
 isPost: true
+docTime: Sun Apr 05 2015 16:40:11 GMT+0100 (BST) 
 location: 37.983397, 23.721175
 category: satellites
 tags: ['satellites', 'corona', 'satellite recovery']
@@ -25,11 +26,11 @@ These attendants have gone through many changes, what the Telecommunications Ind
 
 In early satellite technology, there was a fundamental question: whether these objects would be #passivereflectors or #activerepeaters. The latter was deemed untenable, for its need to have a long-term power source to send radio waves back to earth, and the first design was chosen. As passive reflectors, these objects' first instantiation evolved into uniformly reflective aluminum-coated spheres; they wouldn't require a special alignment in orbit to relay waves bounced off their surfaces.<sup><a href="#1">1</a></sup>
 
-The narrative of early satellite technology is an intertwined love story of handshakes, boardrooms, unfair labor, and men wanting eyes that were big enough to see the whole world, which joined common resources between the military, government, and private sectors – stories of how the developer of the V-2 missile in Nazi Germany became the lead engineer on the first *successful* American satellite launch, how the International Geophysical Year 1957-1958 implicitly decided altitudes beyond the ionosphere were extranational, and how titles and nomenclatures circulate through an eco-system of immense budgets: Countermeasures Branch, Jet Propulsion Laboratory, Communication Moon Relay, Project Echo, Project Gemini, Operation Crossroads, Corona. 
+The narrative of early satellite technology is an intertwined love story of handshakes, boardrooms, unfair labor, and men wanting eyes that were big enough to see the whole world, which joined common resources between the military, government, and private sectors – stories of how the developer of the V-2 missile in Nazi Germany became the lead engineer on the first *successful* American satellite launch, how the International Geophysical Year 1957-1958 implicitly decided altitudes beyond the ionosphere were extranational, and how titles and nomenclatures circulate through an eco-system of immense budgets: Countermeasures Branch, Jet Propulsion Laboratory, Communication Moon Relay, Project Echo, Project Gemini, Operation Crossroads, Corona.
 
 Of course, such things are never easy. The early failures of the U.S. space programme come cloaked in calm, folded hands of eventual triumphs, with men reading off text that's just slightly too far to see:
 
-<iframe  width="420" height="315" class="embed-responsive-item" src="https://www.youtube.com/embed/0osF4MFfdQA" frameborder="0" allowfullscreen></iframe>
+<iframe  width="420" height="315" class="embed-responsive-item" src="https://www.youtube.com/embed/0osF4MFfdQA?start=2053&version=3" frameborder="0" allowfullscreen></iframe>
 
 The failure rate of satellite launch and recovery was high to start. With failures perhaps expected, more piquant is the way in which equipment, labor, and millions were lost and apologized for by ever-more investment – with dates for second attempts often proclaimed just minutes after launch failures<sup><a href="#2">2</a></sup> – and by narratives of mankind's progress becoming even more entrenched and difficult to derail.
 
@@ -41,10 +42,10 @@ The first attempt to recapture intelligence footage taken from an early satellit
 
 
 ![Catching Dead Satellites with Nets](/images/catching_dead.png)
- 
+
 *<div class="caption">March 23, 2015: One capture concept being explored through ESA's e.Deorbit system study for Active Debris Removal - capturing the satellite in a net attached to either a flexible tether (as seen here) or a rigid connection. Credit: ESA.</div>*
 
-Today we're still trying to fly nets in space, the kinds of nets that fishermen use. Space simulators test rainbow-hued, thin spun nets as they trail crafts in orbit and collect the detritus from high-impact collisions and the husks of formerly-powered satellites. 
+Today we're still trying to fly nets in space, the kinds of nets that fishermen use. Space simulators test rainbow-hued, thin spun nets as they trail crafts in orbit and collect the detritus from high-impact collisions and the husks of formerly-powered satellites.
 
 The image of space wants to be strong lines, hard cuts, and grayscale, with warm blue skys and pale rockets launching into the air and slightly tilting, preparing for orbit. These hard lines seem less and less prepared for orbital travel. Lunar-like shopping centers have the curved roofs of UN buildings, but the atmosphere is still too harsh for us to be comfortable. The first space suit worn on the moon – different from the design in press images – encased 27 layers of Playtex, manufactured by a brassiere company.
 

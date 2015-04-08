@@ -32,7 +32,7 @@
 
 	<!-- Icons -->
 	<link rel="shortcut icon" href="/images/icons/favicon.png">
-		
+
 	<!-- Fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -75,7 +75,7 @@
 			</ul>
 		</div>
 
-		<div id="animate" class="slideDown">
+		<div id="animate" class="fadeInSoft">
 			<!-- Content -->
 			<%- @content %>
 		</div>

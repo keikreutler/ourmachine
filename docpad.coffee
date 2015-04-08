@@ -24,7 +24,7 @@ docpadConfig = {
 
 			# The website description (for SEO)
 			description: """
-				PROX.IMITY.IO is an experimental research project for astrological inquiry into modern satellite technology and its quotidian geopolitical ramifications. 
+				PROX.IMITY.IO is an experimental research project for astrological inquiry into modern satellite technology and its quotidian geopolitical ramifications.
 				"""
 
 			# The website keywords (for SEO) separated by commas

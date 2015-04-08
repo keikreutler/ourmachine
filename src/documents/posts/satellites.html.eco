@@ -9,7 +9,7 @@ layout: 'default'
 			<div class="post">
 				<img class="post-icon" src="/images/categories/<%- document.category %>.png">
 				<h4>
-					<%- document.date %>
+					<%- document.docTime %>
 				</h4>
 
 				<h2>

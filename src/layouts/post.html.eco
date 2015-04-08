@@ -10,7 +10,7 @@ layout: default
 				<a name="#"></a>
 				<img class="post-icon" src="/images/categories/<%- @document.category %>.png">
 				<h4>
-					<%- @document.date %>
+					<%- @document.docTime %>
 				</h4>
 
 				<h2>
