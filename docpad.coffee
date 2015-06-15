@@ -42,6 +42,7 @@ docpadConfig = {
 			styles: [
 				"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
 				"/styles/twitter-bootstrap.css"
+				"//api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.css"
 				"/styles/custom.css"
 				"/styles/animations.css"
 			]
@@ -51,8 +52,11 @@ docpadConfig = {
 				"//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"
 				"//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"
 				"//api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js"
+				"//cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"
 				"/scripts/bootstrap-custom.js"
 				"/scripts/modal.js"
+				"//api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.js"
+				"/scripts/map.js"
 				"/scripts/script.js"
 			]
 

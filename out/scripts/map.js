@@ -1,188 +1,107 @@
-var posts = [ { "type" : "Feature",
-    "geometry" : {
-        "type": "Point",
-        "coordinates": [
-          13.441407680511475,
-          52.50151533999679
-        ]
-      },
-      "properties": {
-        "name": "Bar",
-        "description": "With benches outside, colored lights in. Good wifi and cheap beer.\n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.417160511016846,
-          52.501632899215764
-        ]
-      },
-      "properties": {
-        "name": "Cafe Alibi",
-        "description": "Good wifi, outlets a little scarce."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.41806173324585,
-          52.50002622934633
-        ]
-      },
-      "properties": {
-        "name": "Kotti Kaffe",
-        "description": "I love this place - red velvet couches, you can smoke inside, lots of light."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.430593013763428,
-          52.48666116337094
-        ]
-      },
-      "properties": {
-        "name": "Melbourne Cantina",
-        "description": "Good Eggs Florentine, good wifi."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.440184593200684,
-          52.500809978081286
-        ]
-      },
-      "properties": {
-        "name": "Rootz Cafe",
-        "description": "Good vegan cafe with free wifi.\n\nCons: usually open only afternoon."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.412590026855469,
-          52.502429681191614
-        ]
-      },
-      "properties": {
-        "name": "Betahaus",
-        "description": "An open cafe at the ground floor of the coworking space. Great coffee, not enough power outlets."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.422074317932129,
-          52.477003911172226
-        ]
-      },
-      "properties": {
-        "name": "Cafe Selig",
-        "description": "A very quiet cafe and restaurant with good wifi next to a church. What more could you want? \n\nCons: stroller territory."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.401839733123778,
-          52.529433353436936
-        ]
-      },
-      "properties": {
-        "name": "St. Oberholz",
-        "description": "A cafe with a good working area on the top floor - has start up vibes, but it's open later than most places like this. Pros: you can get away with not buying anything."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.42005729675293,
-          52.50031360550477
-        ]
-      },
-      "properties": {
-        "_storage_options": {
-          "iconUrl": "/uploads/pictogram/library-24_1.png",
-          "color": "CadetBlue"
-        },
-        "name": "Thinkfarm",
-        "description": "Coworking space with members by consensus. Lots of plants, lots of communal meals - even has an OpenEnergyMonitor installed.\n\nCons: gates to property closed on weekends."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.381798267364502,
-          52.49844562689723
-        ]
-      },
-      "properties": {
-        "name": "Wikimedia",
-        "description": "They host lots of tech meetups, good wifi, Club Mate by donation."
-            }
-        },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.9744770526886,
-          41.0237834232988
-        ]
-      },
-      "properties": {
-        "name": "SALT Galata",
-        "description": "Salt water, research, windows, coffee."
-            }
-        }
-];
-
-
 L.mapbox.accessToken = 'pk.eyJ1IjoiZ2FtZXJhIiwiYSI6IjNlclVnZDAifQ.a8PjkEfE5i2aOShPawCy1A';
-var layer = new L.StamenTileLayer("toner");
 var map = L.mapbox.map('map', 'extinctly.f3ad5588', {
     zoomControl: true,
-}).setView([41.0237834232988,28.9744770526886], 12);
+    minZoom: 2
+}).setView([30, -25], 3);
 
 map.scrollWheelZoom.disable();
 
-map.addLayer(layer);
+/******************
+CREATE LAYER GROUPS
+******************/
 
-var mapicon = L.icon({
-    iconUrl: '/images/icons/map_future.png',
-    iconAnchor:   [12, 5],
+var cubesats = new L.layerGroup();
+var communications = new L.layerGroup();
+var assorted_bright = new L.layerGroup();
+var weather = new L.layerGroup();
+var geodetic = new L.layerGroup();
+var scientific = new L.layerGroup();
+var engineering = new L.layerGroup();
+var space_stations = new L.layerGroup();
+
+var categories = {"CubeSats": cubesats, "Communications": communications, "Assorted Bright": assorted_bright, "Weather": weather, "Geodetic": geodetic, "Scientific": scientific, "Space Stations": space_stations, "Engineering": engineering}
+
+/******************
+LOAD MAP ICONS
+******************/
+
+var mapicon_US = L.mapbox.marker.icon({
+        'marker-size': 'medium',
+        'marker-symbol': 'star',
+        'marker-color': '#fa0'
+    })
+
+var mapicon_CIS = L.icon({
+    //iconUrl: '/images/map/volatility_sites.png',
+    radius: 5,
+    fillColor: "#89b3c0",
+    color: "#FFF",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.4
 });
 
-L.geoJson(posts, {
-    pointToLayer: function (feature, latlng) {
-		 var marker = L.marker(latlng, {icon: mapicon});
-        return marker;
-    },
-    onEachFeature: onEachFeature
-}).on('mouseover', function(e) {
-    e.layer.openPopup();
-}).addTo(map);
 
-function onEachFeature(feature, featureLayer) {
-    featureLayer.bindPopup('<a href="#"><h1>'+ feature.properties.name +'</h1></a>');
+
+/******************
+LOAD MAP DATA
+******************/
+
+/*** ASSIGN MARKER TYPES ***/
+
+$.getJSON("/data/satellites.geojson", function(data) {
+    L.geoJson(data, {
+        pointToLayer: function(feature, latlng) {
+        
+            if (feature.properties.Owner === 'U.S.') {
+                return L.circleMarker(latlng, {
+                    radius: 5,
+                    fillColor: "#88bb11",
+                    color: "#FFF",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                })
+            ;            }
+            else if (feature.properties.Owner === 'CIS') {
+                return L.circleMarker(latlng, {
+                    radius: 5,
+                    fillColor: "#89b3c0",
+                    color: "#FFF",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                });
+            } 
+            else {
+                return L.circleMarker(latlng, {
+                    radius: 5,
+                    fillColor: "#A3C990",
+                    color: "#FFF",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                });
+            }
+        },
+        onEachFeature: createPopUps
+        }).on('mouseover', function(e) {
+            e.layer.openPopup();
+        });
+    });
+
+function createPopUps(feature, featureLayer) {
+    featureLayer.bindPopup('<h1>' + feature.properties.Name + '</h1><p>' + feature.properties.Category + '</p><h5>Owner: ' + feature.properties.Owner + '</h5>');
+    categories[feature.properties.Category].addLayer(featureLayer);
 }
+
+cubesats.addTo(map);
+communications.addTo(map);
+assorted_bright.addTo(map);
+weather.addTo(map);
+geodetic.addTo(map);
+scientific.addTo(map);
+engineering.addTo(map);
+space_stations.addTo(map);
+
+L.control.layers(null, categories, {collapsed: false}).addTo(map);

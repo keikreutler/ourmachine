@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<html xmlns="//www.w3.org/1999/xhtml">
 <head>
 	<!-- Meta -->
 	<meta charset="utf-8" />
@@ -25,7 +26,7 @@
 	<meta property="og:tags" content="satellite technology, astrology, history, cold war, satellite communications, space race, satellites, omenology, ephemeris, lens, grand narratives, microchimeras, serenity" />
 	<meta name="author" content="Mt. Blisset" />
 	<meta property="og:url" content="http://prox.imity.io/" />
-	<meta property="og:image" content="http://prox.imity.io/images/solaris.jpg" />
+	<meta property="og:image" content="http://prox.imity.io/images/unknown.jpg" />
 
 	<!-- Mobile viewport optimized: h5bp.com/viewport -->
 	<meta name="viewport" content="width=device-width" />
@@ -62,6 +63,9 @@
 			<ul>
 				<li>
 					<a href="/"><i class="fa fa-sun-o"></i></a>
+				</li>
+				<li>
+					<a href="/horoscopes">Horoscopes</a>
 				</li>
 				<li>
 					<a href="/posts/satellites">Satellites</a>

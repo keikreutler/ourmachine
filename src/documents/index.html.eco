@@ -3,7 +3,7 @@ layout: 'default'
 ---
 
 <div class="row">
-	<div id="map" class="shadow">
+	<div id="map-other" class="shadow">
 	</div>
 </div>
 
